@@ -19,3 +19,4 @@ com a ajuda do Copilot finalizando a edição no Microsoft Word.
 ## 🚀 Resultados
 O e-book trata de um tema muito importante sobre legislação no uso das IAs e os o desafio de equilibrar a necessidade
 de incentivo à inovação com a proteção dos direitos individuais e a segurança pública.
+https://github.com/Alyssoncaio/lab-natty-or-not
